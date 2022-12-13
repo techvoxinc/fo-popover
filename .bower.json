@@ -1,0 +1,34 @@
+{
+  "name": "fo-popover",
+  "homepage": "https://github.com/forsigner/fo-popover",
+  "description": "A nice popover for Angular",
+  "main": "dist/js/fo-popover.js",
+  "keywords": [
+    "beside",
+    "angular",
+    "popover",
+    "fo-popover",
+    "angular-popover",
+    "confirm"
+  ],
+  "authors": [
+    "forsigner"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {},
+  "_release": "b0f2e4b80b",
+  "_resolution": {
+    "type": "commit",
+    "commit": "b0f2e4b80b6176e5dc81e87c68bb87cdb7850b70"
+  },
+  "_source": "https://github.com/forsigner/fo-popover.git",
+  "_target": "b0f2e4b80b6176e5dc81e87c68bb87cdb7850b70",
+  "_originalSource": "forsigner/fo-popover"
+}

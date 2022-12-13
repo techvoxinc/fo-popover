@@ -1,0 +1,27 @@
+{
+  "name": "fo-popover",
+  "homepage": "https://github.com/forsigner/fo-popover",
+  "description": "A nice popover for Angular",
+  "main": "dist/js/fo-popover.js",
+  "keywords": [
+    "beside",
+    "angular",
+    "popover",
+    "fo-popover",
+    "angular-popover",
+    "confirm"
+  ],
+  "authors": [
+    "forsigner"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}

@@ -1,0 +1,27 @@
+.fo-popover {
+  position: absolute;
+  display: none;
+  border-radius: 4px;
+  padding: 0;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.18);
+  background: #fff;
+  z-index: 2000;
+  &.open {
+    display: inline-block;
+  }
+  .popover-header {
+    border-bottom: 1px solid #f4f4f4;
+    font-weight: bold;
+    font-size: 16px;
+    text-align: center;
+    padding: 10px 0;
+  }
+  .popover-body {
+    padding: 10px;
+    border-bottom: 1px solid #f4f4f4;
+  }
+  .popover-footer {
+    text-align: center;
+    padding: 10px 0;
+  }
+}
